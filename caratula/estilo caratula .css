@@ -1,0 +1,32 @@
+body
+{
+    text-align: center;
+    background: linear-gradient(to right, #5fb4ca, #306ec5);
+    
+}
+img
+{
+    border-radius: 80px;
+}
+p
+{
+    display: block;
+    background: linear-gradient(to right, #dedb36, #2b39d4);
+    padding: 10px 15px;
+    border-radius: 12px;
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    width: fit-content;
+    margin: 0 auto;
+}
+p
+{
+    display: block;
+    background: linear-gradient(to right, #dedb36, #2b39d4);
+    padding: 10px 15px;
+    border-radius: 12px;
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    width: fit-content;
+    margin: 0 auto;
+}
