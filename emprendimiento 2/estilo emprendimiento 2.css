@@ -1,0 +1,34 @@
+body
+{
+    background: linear-gradient(to right, #c23f3f, #a0771c);
+    text-align: center;
+}
+img
+{
+    border-radius: 12px;
+    margin: 10px;
+    width: 30%;
+    height: auto;
+}
+h1
+{
+    color: #ff00a6;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    background: linear-gradient(to right, #ffffff, #000000);
+    display: inline-block;
+    padding: 10px;
+    border-radius: 10px;
+}
+video
+{
+    border-radius: 15px;
+}
+p
+{
+    color: #ff00a6;
+    border-radius: 20px;
+    background: linear-gradient(to right, #ffffff, #000000);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
